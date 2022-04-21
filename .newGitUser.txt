@@ -1,0 +1,4 @@
+git config --global user.name "exampleUserName"
+git config --global user.email "email@example.com"
+
+git clone https://github.com/szolarisz/szolarisz.github.io.git
